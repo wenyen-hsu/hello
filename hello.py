@@ -1,2 +1,1 @@
-#try use github
-print("hello")
+# print hello with python  
