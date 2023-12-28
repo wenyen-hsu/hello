@@ -1,0 +1,1 @@
+plan to make a project to find good stock with python
